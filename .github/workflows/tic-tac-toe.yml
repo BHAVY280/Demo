@@ -1,0 +1,12 @@
+name: Tic-Tac-Toe
+on:
+  issues:
+    types: [opened]
+jobs:
+  play:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Play Game
+        uses: grubersjo/tic-tac-toe-readme@master
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
