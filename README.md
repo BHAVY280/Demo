@@ -1,5 +1,11 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=cylinder&color=3776AB&height=200&section=header&text=Hii,%20I'm%20BHAVY&fontSize=45&animation=typing&fontColor=FFE873" alt="Bhavy's 3D Waving Typing Banner" />
+  <!-- આ બેનર મસ્ત સતત ઉપર-નીચે વેવ થશે -->
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=3776AB&height=180&section=header" alt="Bhavy's Waving Banner" />
+</p>
+
+<p align="center">
+  <!-- આ લાઈન તારું નામ ઓટોમેટિક એક-એક અક્ષર ટાઈપ કરશે -->
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=32&pause=1000&color=FFE873&center=true&vCenter=true&width=500&lines=Hii%2C+I'm+BHAVY" alt="Typing Effect" />
 </p>
 
 <p align="center">
