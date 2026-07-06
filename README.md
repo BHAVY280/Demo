@@ -12,7 +12,6 @@
 ---
 
 ## 👁️ Profile Views Counter
-<!-- આ કાર્ડ ગણશે કે કેટલા લોકોએ તારી પ્રોફાઈલ વિઝિટ કરી! -->
 <p align="left">
   <img src="https://komarev.com/ghvc/?username=BHAVY280&label=Profile+Views&color=0e75b6&style=flat" alt="Views Counter" />
 </p>
@@ -46,9 +45,10 @@
 
 ---
 
-## 📊 My GitHub Stats & Activity
+## 📊 My GitHub Stats & Metrics
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BHAVY280&layout=compact&theme=vision-friendly-dark&hide_border=true" alt="Top Langs" />
+  <!-- આ નવું કાર્ડ ક્યારેય ડાઉન નહીં થાય અને પરફેક્ટ સ્ટેટ્સ બતાવશે -->
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=BHAVY280&show_icons=true&theme=vision-friendly-dark&hide_border=true" alt="GitHub Stats" />
   <br/><br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=BHAVY280&theme=vision-friendly-dark&hide_border=true" alt="GitHub Streak" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=BHAVY280&layout=compact&theme=vision-friendly-dark&hide_border=true" alt="Top Languages" />
 </p>
