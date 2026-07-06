@@ -46,22 +46,21 @@
 </p>
 
 ---
-
 ## 🎮 Play Tic-Tac-Toe on my Profile!
 
-> 🎮 **You can start the game by clicking on the empty box below.**  
+> 🎮 **You can start the game by clicking on any empty box below.**  
 > ⚡ *This game is automatically updated via GitHub Actions!*
 
 <p align="center">
-  <a href="https://github.com/bhavy280/bhavy280/issues/new?title=ttt%3A0%252C0"><img src="https://raw.githubusercontent.com/grubersjo/tic-tac-toe-readme/master/assets/empty.png" width="90" height="90" /></a>
-  <a href="https://github.com/bhavy280/bhavy280/issues/new?title=ttt%3A0%252C1"><img src="https://raw.githubusercontent.com/grubersjo/tic-tac-toe-readme/master/assets/empty.png" width="90" height="90" /></a>
-  <a href="https://github.com/bhavy280/bhavy280/issues/new?title=ttt%3A0%252C2"><img src="https://raw.githubusercontent.com/grubersjo/tic-tac-toe-readme/master/assets/empty.png" width="90" height="90" /></a>
-  <br />
-  <a href="https://github.com/bhavy280/bhavy280/issues/new?title=ttt%3A1%252C0"><img src="https://raw.githubusercontent.com/grubersjo/tic-tac-toe-readme/master/assets/empty.png" width="90" height="90" /></a>
-  <a href="https://github.com/bhavy280/bhavy280/issues/new?title=ttt%3A1%252C1"><img src="https://raw.githubusercontent.com/grubersjo/tic-tac-toe-readme/master/assets/empty.png" width="90" height="90" /></a>
-  <a href="https://github.com/bhavy280/bhavy280/issues/new?title=ttt%3A1%252C2"><img src="https://raw.githubusercontent.com/grubersjo/tic-tac-toe-readme/master/assets/empty.png" width="90" height="90" /></a>
-  <br />
-  <a href="https://github.com/bhavy280/bhavy280/issues/new?title=ttt%3A2%252C0"><img src="https://raw.githubusercontent.com/grubersjo/tic-tac-toe-readme/master/assets/empty.png" width="90" height="90" /></a>
-  <a href="https://github.com/bhavy280/bhavy280/issues/new?title=ttt%3A2%252C1"><img src="https://raw.githubusercontent.com/grubersjo/tic-tac-toe-readme/master/assets/empty.png" width="90" height="90" /></a>
-  <a href="https://github.com/bhavy280/bhavy280/issues/new?title=ttt%3A2%252C2"><img src="https://raw.githubusercontent.com/grubersjo/tic-tac-toe-readme/master/assets/empty.png" width="90" height="90" /></a>
+  <a href="https://github.com/bhavy280/bhavy280/issues/new?title=ttt%3A0%252C0">🔹 [ ⬜ ]</a> &nbsp;&nbsp;
+  <a href="https://github.com/bhavy280/bhavy280/issues/new?title=ttt%3A0%252C1">🔹 [ ⬜ ]</a> &nbsp;&nbsp;
+  <a href="https://github.com/bhavy280/bhavy280/issues/new?title=ttt%3A0%252C2">🔹 [ ⬜ ]</a>
+  <br/><br/>
+  <a href="https://github.com/bhavy280/bhavy280/issues/new?title=ttt%3A1%252C0">🔹 [ ⬜ ]</a> &nbsp;&nbsp;
+  <a href="https://github.com/bhavy280/bhavy280/issues/new?title=ttt%3A1%252C1">🔹 [ ⬜ ]</a> &nbsp;&nbsp;
+  <a href="https://github.com/bhavy280/bhavy280/issues/new?title=ttt%3A1%252C2">🔹 [ ⬜ ]</a>
+  <br/><br/>
+  <a href="https://github.com/bhavy280/bhavy280/issues/new?title=ttt%3A2%252C0">🔹 [ ⬜ ]</a> &nbsp;&nbsp;
+  <a href="https://github.com/bhavy280/bhavy280/issues/new?title=ttt%3A2%252C1">🔹 [ ⬜ ]</a> &nbsp;&nbsp;
+  <a href="https://github.com/bhavy280/bhavy280/issues/new?title=ttt%3A2%252C2">🔹 [ ⬜ ]</a>
 </p>
