@@ -18,9 +18,27 @@
 
 ---
 
-## 🎮 My GitHub Contribution Python Snake Game
+## 🎮 Play Connect Four on my Profile!
+> 🕹️ **Drop a disc in any column (1-7) to start a game with me!** > ⚡ *The board updates automatically via GitHub Actions.*
+
+💬 **Player 🔴 vs Computer 🟡**
+
 <p align="center">
-  <img src="https://raw.githubusercontent.com/bhavy280/bhavy280/output/github-contribution-grid-snake-dark.svg" alt="Python Snake Game" />
+  <a href="https://github.com/bhavy280/bhavy280/issues/new?title=c4%3Adrop%3A1">[ 1️⃣ Drop ]</a> &nbsp;
+  <a href="https://github.com/bhavy280/bhavy280/issues/new?title=c4%3Adrop%3A2">[ 2️⃣ Drop ]</a> &nbsp;
+  <a href="https://github.com/bhavy280/bhavy280/issues/new?title=c4%3Adrop%3A3">[ 3️⃣ Drop ]</a> &nbsp;
+  <a href="https://github.com/bhavy280/bhavy280/issues/new?title=c4%3Adrop%3A4">[ 4️⃣ Drop ]</a> &nbsp;
+  <a href="https://github.com/bhavy280/bhavy280/issues/new?title=c4%3Adrop%3A5">[ 5️⃣ Drop ]</a> &nbsp;
+  <a href="https://github.com/bhavy280/bhavy280/issues/new?title=c4%3Adrop%3A6">[ 6️⃣ Drop ]</a> &nbsp;
+  <a href="https://github.com/bhavy280/bhavy280/issues/new?title=c4%3Adrop%3A7">[ 7️⃣ Drop ]</a>
+</p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/bhavy280/bhavy280/c4-game/connect-four.svg" alt="Connect Four Board" />
+</p>
+
+<p align="center">
+  <a href="https://github.com/bhavy280/bhavy280/issues/new?title=c4%3Anew">🔄 Restart Game</a>
 </p>
 
 ---
@@ -48,6 +66,6 @@
 ## 📊 My GitHub Stats & Activity
 <p align="left">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BHAVY280&layout=compact&theme=vision-friendly-dark&hide_border=true" alt="Top Langs" />
-  <br/><br/>
+  <br/><br;/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=BHAVY280&theme=vision-friendly-dark&hide_border=true" alt="GitHub Streak" />
 </p>
