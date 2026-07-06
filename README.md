@@ -11,6 +11,13 @@
 
 ---
 
+## 💭 Quote of the Day
+<p align="left">
+  <img src="https://github-readme-quotes.vercel.app/api?theme=vision-friendly-dark&hide_border=true" alt="Quote of the Day" />
+</p>
+
+---
+
 ## 🎯 My Goals
 * 🚀 Deeply learning **Artificial Intelligence (AI)** and **Machine Learning (ML)**.
 * 🧠 Understanding algorithms, data models, and how to build smart applications.
