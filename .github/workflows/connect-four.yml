@@ -7,8 +7,11 @@ on:
 jobs:
   play:
     runs-on: ubuntu-latest
+    permissions:
+      contents: write
+      issues: write
     steps:
       - name: Play Connect Four
-        uses: mscoutermarsh/connect-four-readme@master
+        uses: ThomasGuillot/connect-four-readme@v2
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
