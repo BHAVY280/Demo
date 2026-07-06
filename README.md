@@ -4,16 +4,16 @@
 
 ## 🧑‍💻 About Me
 * 🎓 Pursuing **B.E. in Computer Engineering**
-* 🏫 ** (SSASIT), Surat**
+* 🏫 **S. S. Agrawal Institute of Engineering & Technology (SSASIT), Surat**
 * 🏢 Affiliated with **Gujarat Technological University (GTU)**
-* 🎯 Interested in problem solving and AI/ML.
+* 🎯 Interested in software development, building cool web applications, and exploring advanced technologies.
 * 🌐 Connect with me on [LinkedIn](https://www.linkedin.com/in/bhavykumar-patel-3ba52530a)
 
 ---
 
 ## 💭 Quote of the Day
 <p align="left">
-  <img src="https://github-readme-quotes.vercel.app/api?theme=vision-friendly-dark&hide_border=true" alt="Quote of the Day" />
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" alt="Quote of the Day" />
 </p>
 
 ---
